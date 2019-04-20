@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+        "title": "Task 1",
+        "responsible": "Leon",
+        "description": "Learn again Java",
+        "priority": "low"
+        },
+        {
+        "title": "Task 2 ",
+        "responsible": "Leon",
+        "description": "Learn more SQL",
+        "priority": "medium"
+        },
+        {
+        "title": "Task 3",
+        "responsible": "Leon",
+        "description": "Learn React",
+        "priority": "hi"
+        }    
+    ]
+}
