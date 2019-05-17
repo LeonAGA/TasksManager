@@ -5,6 +5,7 @@
 <h6 align = "center">SigmaΣCode</h6>
 
 <h1 align="center">Tasks Manager</h1>
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/cca66043-aaaa-4b84-b9be-f57735e9de43/deploy-status)](https://app.netlify.com/sites/taskmanage/deploys)
 
 <p align="center">
  React Application.
